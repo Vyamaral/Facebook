@@ -1,2 +1,2 @@
 # Facebook
-Replicação da Interface de Cadastro e Logind do Facebook
+Replicação da Interface de Cadastro e Login do Facebook
